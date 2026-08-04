@@ -9,6 +9,7 @@
     <a href="https://kovalentai.com">Website</a> &nbsp;·&nbsp;
     <a href="https://docs.kovalentai.com">Platform Docs</a> &nbsp;·&nbsp;
     <a href="https://knaix.com">Knaix CLI</a> &nbsp;·&nbsp;
+    <a href="https://github.com/kovalentai/knaix-cli">Source</a> &nbsp;·&nbsp;
     <a href="https://app.kovalentai.com">Get Access</a>
   </p>
 
@@ -27,7 +28,7 @@ Kovalent coordinates a mesh of isolated, single-tenant AI nodes. A central **con
 
 ## What's inside
 
-- **Knaix CLI** ([knaix.com](https://knaix.com)): run the whole stack locally with `knaix local up`, no account required, or `knaix login` to join your private mesh.
+- **Knaix CLI** ([knaix.com](https://knaix.com), [source](https://github.com/kovalentai/knaix-cli)): run the whole stack locally with `knaix local up`, no account required, or `knaix login` to join your private mesh. Written in Rust, Apache-2.0, and every release is signed so you can check the binary you are running.
 - **Dashboard** ([app.kovalentai.com](https://app.kovalentai.com)): provision nodes, watch live metrics and logs, and connect a local node next to hosted ones.
 - **Knowledge base with citations**: a real knowledge base on every node, where answers cite their sources down to the page and passage.
 - **Tamper-evident audit trail**: a hash-chained record of control-plane activity, for the teams who evaluate us.
@@ -38,6 +39,7 @@ Kovalent coordinates a mesh of isolated, single-tenant AI nodes. A central **con
 | --- | --- |
 | Learn the platform | [docs.kovalentai.com](https://docs.kovalentai.com) |
 | Install the CLI | [knaix.com](https://knaix.com) |
+| Read the CLI source | [github.com/kovalentai/knaix-cli](https://github.com/kovalentai/knaix-cli) |
 | Request Beta access | [app.kovalentai.com](https://app.kovalentai.com) |
 | Read our story | [kovalentai.com/about](https://kovalentai.com/about) |
 | Talk to us | info@kovalentai.com |
