@@ -43,3 +43,4 @@ Kovalent coordinates a mesh of isolated, single-tenant AI nodes. A central **con
 | Request Beta access | [app.kovalentai.com](https://app.kovalentai.com) |
 | Read our story | [kovalentai.com/about](https://kovalentai.com/about) |
 | Talk to us | info@kovalentai.com |
+
