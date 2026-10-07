@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://kovalentai.com/logo-multicolor.png?v=4" alt="Kovalent AI" width="112" />
+  <img src="https://kovalentai.com/logo-multicolor.png" alt="Kovalent AI" width="112" />
 
   <h1>Kovalent AI</h1>
 
